@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f8f8f8;
+  }
+  
+  .search-bar {
+    width: 60%;
+    padding: 8px;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .profile-icon,
+  .cart-icon {
+    cursor: pointer;
+  }
+
+  
